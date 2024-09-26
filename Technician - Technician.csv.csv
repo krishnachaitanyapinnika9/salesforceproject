@@ -1,0 +1,6 @@
+Technician ID,Name,Phone,Email,Location,Availibility,Skills
+T-0001,Raghu,7892341560,example@gmail.com,Hyderabad,Available,Machine Installation
+T-0002,Raghav,7892341560,example@gmail.com,Pune,Not Available,Hardware Repair
+T-0003,Shyam,7892341560,example@gmail.com,Nasik,Not Available,Troubleshoot/Debugging
+T-0004,Mastan,7892341560,example@gmail.com,Warangal,Available,Maintenance
+T-0005,Ramesh,7892341560,example@gmail.com,Nanded,Available,Lane-Management
